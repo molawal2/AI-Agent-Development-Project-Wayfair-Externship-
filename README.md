@@ -9,7 +9,7 @@ This project demonstrates building a small AI agent using n8n as part of my Wayf
 - Developed understanding of automation logic, decision-making, and workflow management in AI tools.
 
 ## Workflow Diagram
-Here’s a visual representation of the AI agent workflow:
+Here’s a visual representation of the AI agent workflow:https://github.com/molawal2/AI-Agent-Development-Project-Wayfair-Externship-/blob/AI-2.PNG/AI%202.PNG
 
 ## Technologies Used
 - n8n (automation tool)
