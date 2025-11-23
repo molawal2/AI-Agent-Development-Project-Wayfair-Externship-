@@ -10,7 +10,7 @@ This project demonstrates building a small AI agent using n8n as part of my Wayf
 
 ## Workflow Diagram
 Here’s a visual representation of the AI agent workflow:
-AI 2.PNG
+[AI 2.PNG](https://github.com/molawal2/AI-Agent-Development-Project-Wayfair-Externship-/tree/AI-2.PNG)
 
 ## Technologies Used
 - n8n (automation tool)
