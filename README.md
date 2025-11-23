@@ -9,7 +9,8 @@ This project demonstrates building a small AI agent using n8n as part of my Wayf
 - Developed understanding of automation logic, decision-making, and workflow management in AI tools.
 
 ## Workflow Diagram
-Here’s a visual representation of the AI agent workflow:![AI Agent Workflow](images/workflow.png)
+Here’s a visual representation of the AI agent workflow:
+![AI Agent Workflow](images/workflow.png)
 
 ## Technologies Used
 - n8n (automation tool)
