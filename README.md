@@ -23,7 +23,9 @@ Here’s a visual representation of the AI agent workflow:
 ## Sample Generated Output
 An example image produced by the AI agent:  
 
-![Generated Image](images/generated_image.png)  
+�PNG
+
+  
 *Replace the path above with your generated image file location.*
 
 ---
