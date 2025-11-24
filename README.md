@@ -22,9 +22,7 @@ https://github.com/molawal2/AI-Agent-Development-Project-Wayfair-Externship-/blo
 
 ## Sample Generated Output
 An example image produced by the AI agent:  
-](https://github.com/molawal2/AI-Agent-Development-Project-Wayfair-Externship-/blob/b9f8768ee1bea8863e1e2c35878d7b83599ac3a0/FLUX.1-schnell)
----
-
+[](https://github.com/molawal2/AI-Agent-Development-Project-Wayfair-Externship-/blob/b9f8768ee1bea8863e1e2c35878d7b83599ac3a0/FLUX.1-schnell)
 ## Technologies Used
 - **n8n** (workflow automation tool)  
 - Code nodes for custom JSON data  
