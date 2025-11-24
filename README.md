@@ -15,7 +15,7 @@ This project demonstrates the development of a small AI-driven automation using 
 ## Workflow Diagram
 Here’s a visual representation of the AI agent workflow:  
 
-![AI Agent Workflow](images/workflow.png)  
+Ai agent picture generator.PNG 
 *Replace the path above with your workflow image location.*
 
 ---
