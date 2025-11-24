@@ -1,23 +1,43 @@
 # AI Agent Creation Using n8n – Wayfair Externship
 
 ## Project Overview
-This project demonstrates building a small AI agent using n8n as part of my Wayfair externship. The AI agent tracks data, applies logic, and generates automated messages based on input conditions.
+This project demonstrates the development of a small AI-driven automation using **n8n** as part of my Wayfair AI Externship. The AI agent processes input data, applies decision logic, and generates automated responses based on conditions.
+
+---
 
 ## Key Features
-- Built a workflow in n8n that processes input data and applies logic.
-- Created conditional outcomes based on data (e.g., sunny vs. rainy weather).
-- Developed understanding of automation logic, decision-making, and workflow management in AI tools.
+- Built an end-to-end workflow in n8n that simulates data input and applies logic.  
+- Implemented conditional branching for different automated outputs (e.g., sunny vs. rainy responses).  
+- Gained hands-on experience in workflow automation, decision-making, and building lightweight AI agents.
+
+---
 
 ## Workflow Diagram
-Here’s a visual representation of the AI agent workflow:https://github.com/molawal2/AI-Agent-Development-Project-Wayfair-Externship-/blob/AI-2.PNG/AI%202.PNG
+Here’s a visual representation of the AI agent workflow:  
+
+![AI Agent Workflow](images/workflow.png)  
+*Replace the path above with your workflow image location.*
+
+---
+
+## Sample Generated Output
+An example image produced by the AI agent:  
+
+![Generated Image](images/generated_image.png)  
+*Replace the path above with your generated image file location.*
+
+---
 
 ## Technologies Used
-- n8n (automation tool)
-- Logic nodes and code nodes
-- Conditional branching (If nodes)
-- Set nodes for message output
+- **n8n** (workflow automation tool)  
+- Code nodes for custom JSON data  
+- IF/conditional logic nodes  
+- Set nodes for dynamic message output  
+
+---
 
 ## Outcome
-- Created a functioning AI agent that reacts to input data with dynamic outputs.
-- Gained hands-on experience in building AI-driven automations for business scenarios.
+- Created a functioning AI-style automation that reacts dynamically to input data.  
+- Strengthened practical skills in AI automation, workflow orchestration, and no-code/low-code tools used in enterprise environments.
+
 
