@@ -14,7 +14,7 @@ This project demonstrates the development of a small AI-driven automation using 
 
 ## Workflow Diagram
 Here’s a visual representation of the AI agent workflow:  
-
+https://github.com/molawal2/AI-Agent-Development-Project-Wayfair-Externship-/blob/78a6a08624055e77967efd6e9f4dc903ce313e3c/Ai%20agent%20picture%20generator.PNG
 Ai agent picture generator.PNG 
 *Replace the path above with your workflow image location.*
 
